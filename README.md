@@ -62,3 +62,5 @@ b. Conducting Exploratory Data Analysis (EDA) to verify linear assumptions.
 c. Proper data splitting techniques to prevent overfitting and test generalization.
 d. Interpreting regression coefficients, intercepts, and evaluation metrics (R², RMSE, MAE).
 e. Comparing multiple features to determine the strongest predictor for a target variable.
+
+Course Participant/Code Executor: Obinna Nwosu C,; Author: Jeff Grossman,; Other Contributor(s): Abhishek Gagneja, © IBM Corporation. All rights reserved.
